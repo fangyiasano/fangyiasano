@@ -10,7 +10,7 @@ Recently, I've developed a Lakehouse solution in AWS using AWS Glue, AWS S3, Pyt
 
 ## Projects 💼
 
-1. [**Python Dash Data Analysis App**: An interactive data analysis app for retail companies.](https://github.com/fangyiasano/Python-Dash-Data-Analysis-App)
+1. [**Python Dash Data Analysis App**: An interactive data analysis app for companies.](https://github.com/fangyiasano/Python-Dash-Data-Analysis-App)
 2. [**AWS Data Warehouses**: Built an ETL pipeline to extract data from S3, staged it in Redshift, and created analytics tables, enabling data analysis for a music streaming company.](https://github.com/fangyiasano/AWS-Data-Warehouses)
 3. [**AWS Data Lakehouse**: Built an AWS lakehouse solution with Glue, S3, Python, and Spark for data ingestion, transformation, and curated table creation based on STEDI data scientists' requirements.](https://github.com/fangyiasano/AWS-Data-Lakehouse)
 4. [**AWS Data Pipeline**: Built dynamic and reusable data pipelines with Apache Airflow for automating and monitoring ETL processes, ensuring data quality, and integrating S3 and Amazon Redshift for a music streaming company.](https://github.com/fangyiasano/AWS-Data-pipeline)
