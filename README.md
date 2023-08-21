@@ -4,7 +4,7 @@ Welcome to my GitHub! 👨‍💻 | 欢迎来到我的GitHub！ | 私のGitHub�
 
 ## About Me 👤
 
-I’m currently a Data Science and Econ graduate student at Brandeis University, and a former Intern at TikTok. During my time at TikTok, I realized that a significant portion of business value creation stems from scientific analysis, which sparked my deep interest in machine learning and data engineering.
+I’m currently a graduate student studying Data Science and Eco at Brandeis University, and a former Intern at TikTok. During my time at TikTok, I realized that a significant portion of business value creation stems from scientific analysis, which sparked my deep interest in machine learning and data engineering.
 
 Recently, I've developed a Lakehouse solution in AWS using AWS Glue, AWS S3, Python, and Spark. This entailed creating dynamic, high-quality data pipelines built from reusable tasks, equipped with effective monitoring and easy backfills. I've also cleaned substantial data related to banking products, conducted feature engineering and scaling, and successfully applied a random forest multi-output classifier to predict user behavior. Additionally, I built an interactive data analysis app for retail companies using Python's Dash. Currently, I'm delving into deep learning feature engineering and model training for banking data, aiming to optimize predictive models and enhance accuracy.
 
